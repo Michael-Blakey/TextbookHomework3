@@ -16,7 +16,7 @@ public class BMI {
             System.out.println("Normal");
         }
         else if (25.0 <= BMI < 30.0){
-
+1
         }
 
     }
