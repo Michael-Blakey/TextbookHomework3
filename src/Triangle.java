@@ -10,8 +10,9 @@ public class Triangle {
         if (a + b > c || c + b > a || c + a > b ) {
             System.out.println("Valid");
         }
-        if (a + b < c || c + b < a || c + a < b) {
-            System.out.println("not valid");
+        else{
+          System.out.println("Invalid");    
         }
+        
         }
 }
